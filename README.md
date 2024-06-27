@@ -1,8 +1,6 @@
 ### Felipe Stawinski Suzuki - Bacharelado em Sistemas de Informação | UTFPR 📘
 
 
-![727b4395db3bf1b5062f67dfdbf33d56](https://user-images.githubusercontent.com/94695893/155365478-b085754d-4b04-4d00-95a3-c6c7ebc9aae0.gif)
-
 
 <!--
 **felipedelas/felipedelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
