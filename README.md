@@ -27,24 +27,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipestawinski&show_icons=true&hide_border=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipestawinski&layout=compact&hide_border=true&theme=tokyonight" height="180" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:felipe.stawinski@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
 
 ---
-
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
+“Code is like humor. When you have to explain it, it’s bad.” - Cory House
