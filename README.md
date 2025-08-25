@@ -1,4 +1,4 @@
-### Felipe Stawinski Suzuki - Bacharelado em Sistemas de Informação | UTFPR 📘
+### Felipe Stawinski Suzuki - Desenvolvedor de Software - Bacharelado em Sistemas de Informação | UTFPR 📘
 
 
 
